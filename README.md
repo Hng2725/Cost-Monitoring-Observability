@@ -78,4 +78,4 @@ npm run agent
 - **Dữ liệu:** JSONL (JSON Lines) cho việc ghi log hiệu năng cao.
 
 ---
-*Phát triển bởi Antigravity AI Assistant.*
+*By Hng2725*
